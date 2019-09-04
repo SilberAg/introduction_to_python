@@ -1,0 +1,24 @@
+locus_tag	start	end	strand	gene	product
+Rv0001	1	1524	1	dnaA	chromosomal replication initiator protein DnaA
+Rv0002	2052	3260	1	dnaN	DNA polymerase III subunit beta
+Rv0003	3280	4437	1	recF	DNA replication/repair protein RecF
+Rv0004	4434	4997	1	NA	hypothetical protein
+Rv0005	5240	7267	1	gyrB	DNA gyrase subunit B
+Rv0006	7302	9818	1	gyrA	DNA gyrase subunit A
+Rv0007	9914	10828	1	NA	membrane protein
+Rv0008c	11874	12311	-1	NA	cell wall synthesis protein CwsA
+Rv0009	12468	13016	1	ppiA	iron-regulated peptidyl-prolyl cis-trans isomerase PpiA
+Rv0010c	13133	13558	-1	NA	membrane protein
+Rv0011c	13714	13995	-1	NA	cell division protein CrgA
+Rv0012	14089	14877	1	NA	membrane protein
+Rv0013	14914	15612	1	trpG	anthranilate synthase component II
+Rv0014c	15590	17470	-1	pknB	serine/threonine-protein kinase PknB
+Rv0015c	17467	18762	-1	pknA	serine/threonine-protein kinase PknA
+Rv0016c	18759	20234	-1	pbpA	penicillin-binding protein PbpA
+Rv0017c	20231	21640	-1	rodA	cell division protein RodA
+Rv0018c	21637	23181	-1	pstP	phosphoserine/threonine phosphatase PstP
+Rv0019c	23270	23737	-1	fhaB	FHA domain-containing protein FhaB
+Rv0020c	23861	25444	-1	fhaA	FHA domain-containing protein FhaA
+Rvnt03	25644	25726	1	leuT	tRNA-Leu
+Rv0021c	25913	26881	-1	NA	hypothetical protein
+Rv0022c	27023	27442	-1	whiB5	transcriptional regulator WhiB5
